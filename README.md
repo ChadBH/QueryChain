@@ -1,2 +1,2 @@
-# QueryChain
-Configure and query nested data in a straightforward way
+# .net generic tree
+Tree object with straightforward member traversal method
